@@ -15,7 +15,7 @@ KEYWORDS="amd64"
 IUSE=""
 
 DEPEND=""
-RDEPEND="${DEPEND}"
+RDEPEND="${DEPEND} >=net-print/cups-2.3"
 
 RESTRICT="mirror strip"
 
